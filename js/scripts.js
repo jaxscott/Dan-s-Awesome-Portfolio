@@ -4,4 +4,3 @@ $(document).ready(function(){
 		$('.desktop-view').toggleClass('expand');
 	});
 });
-
